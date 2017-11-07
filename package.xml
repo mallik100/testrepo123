@@ -9,6 +9,7 @@
         <members>Test15</members>
         <members>Test16</members>
         <members>Test17</members>
+        <members>Test18</members>
         <name>ApexClass</name>
     </types>
 </Package>
