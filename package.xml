@@ -12,6 +12,7 @@
         <members>Test18</members>
         <members>Test20</members>
         <members>Test21</members>
+        <members>Test22</members>
         <name>ApexClass</name>
     </types>
 </Package>
