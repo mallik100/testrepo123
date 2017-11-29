@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <version>39.0</version>
+    <version>40.0</version>
     <types>
         <members>Test10</members>
         <members>Test11</members>
@@ -13,6 +13,7 @@
         <members>Test20</members>
         <members>Test21</members>
         <members>Test22</members>
+        <members>apex1</members>
         <name>ApexClass</name>
     </types>
 </Package>
