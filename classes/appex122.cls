@@ -1,0 +1,2 @@
+public class appex122{
+}
