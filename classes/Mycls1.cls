@@ -1,0 +1,2 @@
+global class Mycls1{
+}
